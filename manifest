@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.1
+apiversion: 2
+description: th
+author: th
+license: th
+copyright: th
+
+
+# these should not be edited
+name: inappsettingskit
+moduleid: jp.coe.inappsettingskit
+guid: 844c4c67-1f3b-4cc7-a5dc-1e23e7c3a431
+platform: iphone
+minsdk: 2.0.1.GA2
