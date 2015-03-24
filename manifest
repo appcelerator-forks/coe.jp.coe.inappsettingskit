@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.1
+version: 2.0.0
 apiversion: 2
 description: th
 author: th
@@ -15,4 +15,4 @@ name: inappsettingskit
 moduleid: jp.coe.inappsettingskit
 guid: 844c4c67-1f3b-4cc7-a5dc-1e23e7c3a431
 platform: iphone
-minsdk: 2.0.1.GA2
+minsdk: 3.5.1.GA
